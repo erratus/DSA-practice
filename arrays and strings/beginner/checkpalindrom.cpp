@@ -16,7 +16,7 @@ bool isPalindrome(string arr){
 }
 
 int main(){
-    string arr="malayalam";
+    string arr="A man, a plan, a canal: Panama";
     cout<<isPalindrome(arr);
 
     return 0;
